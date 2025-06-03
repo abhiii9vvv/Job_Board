@@ -114,7 +114,7 @@ A beautiful, responsive job board application focused on the Indian job market w
 
 ## 📊 Project Structure
 
-\`\`\`
+
 jobboard/
 ├── app/                    # Next.js app directory
 │   ├── globals.css        # Global styles
@@ -133,7 +133,7 @@ jobboard/
 ├── public/               # Static assets
 │   └── images/           # Company logos and images
 └── README.md            # Project documentation
-\`\`\`
+
 
 ## 🎨 Design Features
 
