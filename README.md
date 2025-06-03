@@ -1,8 +1,8 @@
 # 🇮🇳 JobBoard - Modern Job Search Platform
 
 A beautiful, responsive job board application focused on the Indian job market with global opportunities. Built with modern web technologies and featuring a sleek glass-morphism design.
+![image](https://github.com/user-attachments/assets/d9f6b216-dfd6-4062-b3ba-abbee49f4532)
 
-![JobBoard Preview](https://via.placeholder.com/800x400/0f766e/ffffff?text=JobBoard+Preview)
 
 ## ✨ Features
 
