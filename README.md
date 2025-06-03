@@ -114,26 +114,25 @@ A beautiful, responsive job board application focused on the Indian job market w
 
 ## 📊 Project Structure
 
-
 jobboard/
-├── app/                    # Next.js app directory
-│   ├── globals.css        # Global styles
-│   ├── layout.tsx         # Root layout
-│   └── page.tsx           # Home page
-├── components/            # React components
-│   ├── navbar.tsx         # Navigation component
-│   ├── hero.tsx           # Hero section
-│   ├── job-card.tsx       # Job listing card
-│   ├── search-bar.tsx     # Search functionality
+├── app/                  # Next.js app directory
+│   ├── globals.css       # Global styles
+│   ├── layout.tsx        # Root layout
+│   └── page.tsx          # Home page
+├── components/           # React components
+│   ├── Navbar.tsx        # Navigation component
+│   ├── Hero.tsx          # Hero section
+│   ├── JobCard.tsx       # Job listing card
+│   ├── SearchBar.tsx     # Search functionality
 │   └── ...               # Other components
-├── lib/                   # Utilities and data
-│   ├── jobs-data.ts       # Job listings data
-│   ├── hooks/             # Custom React hooks
-│   └── contexts/          # React contexts
+├── lib/                  # Utilities and data
+│   ├── jobs-data.ts      # Job listings data
+│   ├── hooks/            # Custom React hooks
+│   └── contexts/         # React contexts
 ├── public/               # Static assets
 │   └── images/           # Company logos and images
-└── README.md            # Project documentation
-
+├── README.md             # Project documentation
+└── ...                   # Other root files (e.g., package.json, next.config.js)
 
 ## 🎨 Design Features
 
