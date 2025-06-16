@@ -1,7 +1,6 @@
 # Jobify: Find Your Dream Job
 
 ![Jobify Homepage Screenshot](![image](https://github.com/user-attachments/assets/06ff8397-ec69-47f0-a0cc-472d1f1db8c1)
-)
 
 Jobify is a modern, comprehensive job board platform designed to connect job seekers with top companies and startups. With a user-friendly interface and robust search capabilities, Jobify makes finding your next career opportunity seamless and efficient.
 
