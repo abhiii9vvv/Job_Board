@@ -1,6 +1,7 @@
 # Job Board: Find Your Dream Job
 
-![Job Board Homepage Screenshot](https://raw.githubusercontent.com/abhiii9vvv/Job_Board/main/public/job-board-screenshot.png)
+![Job Board Homepage Screenshot](![image](https://github.com/user-attachments/assets/6a8e16cf-c9cf-4190-ab9b-39f4dd62d9f2)
+)
 
 **Job Board** is a modern and comprehensive platform designed to connect job seekers with top companies and startups. Featuring a user-friendly interface and powerful search capabilities, Job Board makes discovering your next career opportunity seamless and efficient.
 
