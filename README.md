@@ -1,45 +1,71 @@
-# Jobify: Find Your Dream Job
+# Job Board: Find Your Dream Job
 
-![Jobify Homepage Screenshot](https://github.com/user-attachments/assets/06ff8397-ec69-47f0-a0cc-472d1f1db8c1)
+![Job Board Homepage Screenshot](https://raw.githubusercontent.com/abhiii9vvv/Job_Board/main/public/job-board-screenshot.png)
 
-**Jobify** is a modern and comprehensive job board platform designed to connect job seekers with top companies and startups. Featuring a user-friendly interface and powerful search capabilities, Jobify makes the process of discovering your next career opportunity seamless and efficient.
+**Job Board** is a modern and comprehensive platform designed to connect job seekers with top companies and startups. Featuring a user-friendly interface and powerful search capabilities, Job Board makes discovering your next career opportunity seamless and efficient.
 
+---
 
 ## ✨ Features
 
-*   **Intuitive Job Search**: Easily find jobs by title, keywords, location, and category.
-*   **Detailed Job Listings**: Comprehensive pages for each job posting, including full descriptions, required skills, and company information.
-*   **Company Profiles**: Explore top companies with dedicated profiles and their available job openings.
-*   **User Dashboards**: Personalized dashboards for job seekers to manage applications and for employers to manage postings (under development).
-*   **Responsive Design**: Optimized for seamless experience across all devices.
-*   **Authentication System**: Secure user login and registration (with Google, GitHub, and Credentials).
+- **Intuitive Job Search**: Easily find jobs by title, keywords, location, and category.
+- **Detailed Job Listings**: View full job descriptions, required skills, and company information.
+- **Company Profiles**: Explore top companies and their available job openings.
+- **User Dashboards**: Personalized dashboards for managing applications and job postings (in development).
+- **Responsive Design**: Fully optimized for all screen sizes.
+- **Authentication System**: Secure login with Google, GitHub, and credentials.
+
+---
 
 ## 🚀 Live Demo
 
-Experience Jobify live: [https://job-board-by-abhinav.vercel.app/](https://job-board-by-abhinav.vercel.app/)
+👉 Try it live: [https://job-board-by-abhinav.vercel.app](https://job-board-by-abhinav.vercel.app)
+
+---
 
 ## 🛠️ Technologies Used
 
-*   **Framework**: Next.js (App Router)
-*   **Styling**: Tailwind CSS, shadcn/ui
-*   **Database**: Supabase (PostgreSQL)
-*   **Authentication**: NextAuth.js
-*   **Data Fetching**: React Query
-*   **Icons**: Lucide React
+- **Framework**: Next.js (App Router)
+- **Styling**: Tailwind CSS, shadcn/ui
+- **Database**: Supabase (PostgreSQL)
+- **Authentication**: NextAuth.js
+- **Data Fetching**: React Query
+- **Icons**: Lucide React
+
+---
 
 ## ⚙️ Getting Started
 
-Follow these steps to set up and run Jobify locally.
-
 ### Prerequisites
 
-*   Node.js (v18.x or higher)
-*   Bun (recommended package manager)
-*   Git
+- Node.js (v18+)
+- Bun (recommended) or npm/yarn
+- Git
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <your-repository-url>
-    cd jobify
+```bash
+# Clone the repository
+git clone https://github.com/abhiii9vvv/Job_Board.git
+cd Job_Board
+
+# Install dependencies
+bun install  # or npm install or yarn install
+
+# Start the development server
+bun dev  # or npm run dev or yarn dev
+````
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Fork the repository and open a pull request with your improvements.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+```
